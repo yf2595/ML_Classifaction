@@ -1,2 +1,2 @@
 # ML_Classifaction
-Comparing ML different classification methods - KNN, Tree, RandomForest
+Comparing different Machine learning classification methods - KNN, Tree, RandomForest on heart disease data
